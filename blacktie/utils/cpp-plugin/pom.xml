@@ -23,6 +23,7 @@
         <relativePath>../../pom.xml</relativePath>
     </parent>
     <modelVersion>4.0.0</modelVersion>
+    <groupId>org.jboss.narayana.blacktie.plugins</groupId>
     <artifactId>blacktie-cpp-plugin</artifactId>
     <name>Blacktie C++ Plugin</name>
     <packaging>maven-plugin</packaging>
